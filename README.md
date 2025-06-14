@@ -115,10 +115,11 @@ npm start
 ## 📈 Fonctionnalités principales
 
 * Authentification et gestion des utilisateurs via Keycloak
-* Tableau de bord des compétences
-* Attribution d'activités / formations
-* Visualisation des progrès
-* Exports (PDF/CSV)
+* Tableau de bord 
+* Ajout/suppression/modification etudiant
+* Ajout/suppression/modification niveau 
+* Ajout/suppression/modification inscription
+* Ajout/suppression/modification formation
 
 ---
 
