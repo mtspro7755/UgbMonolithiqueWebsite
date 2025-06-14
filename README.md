@@ -139,11 +139,5 @@ Vous pouvez déployer l'application sur :
 
 ---
 
-## 📄 License
-
-Ce projet est sous licence MIT.
-
----
-
 
 > Ce projet combine les bonnes pratiques DevOps, développement web moderne et d'authentification sécurisée avec Keycloak pour une application full-stack robuste et scalable.
